@@ -53,7 +53,7 @@ By following these steps, I successfully delivered a comprehensive and efficient
 - **Power Query**: Data cleaning, transformation, and optimization
 
 ## Dashboard
-![PowerBI Dashboard 1st page ](https://github.com/user-attachments/assets/1415773b-dde6-48c0-805e-b9ce365d7a7e)
+![PowerBI Dashboard 1st Page ](https://github.com/user-attachments/assets/57816542-a633-431a-82d0-20012beb9cb4)
 
 
 ![PowerBI Dashboard 2nd Page ](https://github.com/user-attachments/assets/7c5510af-7481-4204-a399-d2b25ac34633)
