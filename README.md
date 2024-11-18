@@ -51,3 +51,11 @@ By following these steps, I successfully delivered a comprehensive and efficient
 - **Power BI**: Dashboard development, data transformation, and visualization
 - **DAX**: Data analysis expressions for dynamic calculations and measures
 - **Power Query**: Data cleaning, transformation, and optimization
+
+## Dashboard
+![PowerBI Dashboard 1st page ](https://github.com/user-attachments/assets/1415773b-dde6-48c0-805e-b9ce365d7a7e)
+
+
+![PowerBI Dashboard 2nd Page ](https://github.com/user-attachments/assets/7c5510af-7481-4204-a399-d2b25ac34633)
+
+
